@@ -41,7 +41,7 @@ layers:
   - {t: ⏎, h: raise}
   - ␣
   - ⌫
-  - DELETE
+  - CAPSLOCK
   lower:
   - Esc
   - '1'
